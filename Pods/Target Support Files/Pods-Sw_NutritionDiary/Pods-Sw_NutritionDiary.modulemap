@@ -1,6 +1,0 @@
-framework module Pods_Sw_NutritionDiary {
-  umbrella header "Pods-Sw_NutritionDiary-umbrella.h"
-
-  export *
-  module * { export * }
-}
